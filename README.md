@@ -1,0 +1,2 @@
+# Customer-segmentation-and-productive-analytics-System-
+Customer Segmentation and Predictive Analytics System is a Python-based project that analyzes customer data, groups customers by purchasing behavior, and uses machine learning to identify patterns and predict trends. It helps businesses understand preferences, target customer groups, improve marketing strategies, and make informed decisions wisely.
